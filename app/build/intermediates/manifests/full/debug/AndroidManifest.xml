@@ -20,13 +20,15 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="mekotlinapps.dnyaneshwar.in.restdemo.acitivty.FirstScreen" >
+        <activity android:name="mekotlinapps.dnyaneshwar.in.restdemo.acitivty.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="mekotlinapps.dnyaneshwar.in.restdemo.acitivty.FirstScreen" />
+        <activity android:name="mekotlinapps.dnyaneshwar.in.restdemo.acitivty.Signup" />
         <activity android:name="mekotlinapps.dnyaneshwar.in.restdemo.acitivty.MainActivity" />
 
         <meta-data
