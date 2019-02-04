@@ -4,7 +4,7 @@
             "outputFile": "/home/signity/Downloads/Retrofit-Kotlin-tutorial-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/home/signity/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60d6ab4daa9d2bfb22d2ced684487574/res/values-v18/values-v18.xml",
+                    "source": "/home/signity/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7a8661ae4bb94899020ad5c6b284f6c4/res/values-v18/values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

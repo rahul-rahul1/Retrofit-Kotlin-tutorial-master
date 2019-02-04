@@ -25,7 +25,27 @@
         android:id="@+id/editUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Email address"
+        android:hint="Full Name"
+        android:inputType="textEmailAddress" />
+    <EditText
+        android:id="@+id/etAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Age"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/etPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Full Name"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/etGener"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Full Name"
         android:inputType="textEmailAddress" />
 
     <Button
@@ -33,5 +53,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="signup" />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:visibility="visible" />
 
 </LinearLayout>

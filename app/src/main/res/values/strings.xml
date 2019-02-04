@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Retrofit Kotlin Demo</string>
+    <string name="facebook_app_id">241216670131438</string>
+    <string name="fb_login_protocol_scheme">fb241216670131438</string>
 </resources>
